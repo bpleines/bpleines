@@ -3,6 +3,8 @@
     -  Python
     -  Kubernetes
     -  CI/CD (primarily Github Actions these days)
+    -  Airflow
+    -  Rundeck
     -  AWS infrastructure automation
 - 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on open-source automation
