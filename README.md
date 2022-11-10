@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @bpleines
-- 👀 I’m interested in Python, CI/CD, and AWS infrastructure automation
-- 🌱 I’m currently learning Rundeck
+- 👀 I’m interested in:
+    -  Python
+    -  Kubernetes
+    -  CI/CD (primarily Github Actions these days)
+    -  AWS infrastructure automation
+- 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on open-source automation
 - 📫 How to reach me: LinkedIn
 - Checkout https://brandenpleines.medium.com/ for deep dives on my software journey
