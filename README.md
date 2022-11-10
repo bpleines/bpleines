@@ -6,6 +6,7 @@
     -  Airflow
     -  Rundeck
     -  AWS infrastructure automation
+    -  Data Visualization
 - 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on open-source automation
 - 📫 How to reach me: LinkedIn
