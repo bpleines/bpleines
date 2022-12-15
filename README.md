@@ -2,10 +2,10 @@
 - 👀 I’m interested in:
     -  Python
     -  Kubernetes
-    -  CI/CD (primarily Github Actions these days)
     -  Airflow
+    -  AWS
+    -  Github Actions
     -  Rundeck
-    -  AWS Infrastructure Automation
     -  Data Visualization
 - 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on open-source automation
