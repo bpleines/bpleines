@@ -2,6 +2,7 @@
 - 👀 I’m interested in:
     -  Python
     -  Kubernetes
+    -  ArgoCD
     -  Airflow
     -  AWS
     -  Github Actions
