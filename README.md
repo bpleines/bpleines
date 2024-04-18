@@ -6,7 +6,6 @@
     -  Airflow
     -  AWS
     -  Github Actions
-    -  Rundeck
     -  Data Visualization
 - 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on open-source automation
