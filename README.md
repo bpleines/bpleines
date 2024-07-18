@@ -7,7 +7,7 @@
     -  AWS
     -  Github Actions
     -  Data Visualization
-- 🌱 I’m currently learning machine learning with python
+- 🌱 I’m currently deploying applications in Kubernetes managed by ArgoCD
 - 💞️ I’m looking to collaborate on open-source automation
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-bpleines-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandenpleines)
 - Checkout https://brandenpleines.medium.com/ for deep dives on my software journey
